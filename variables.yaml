@@ -1,0 +1,10 @@
+MONGODB_HOST: mongodb.nextgensquare.online # submit your host
+REDIS_HOST: redis.nextgensquare.online
+MYSQL_HOST: mysql.nextgensquare.online
+RABBITMQ_HOST: rabbitmq.nextgensquare.online
+CATALOGUE_HOST: catalogue.nextgensquare.online
+USER_HOST: user.nextgensquare.online
+CART_HOST: cart.nextgensquare.online
+SHIPPING_HOST: shipping.nextgensquare.online
+PAYMENT_HOST: payment.nextgensquare.online
+DISPATCH_HOST: dispatch.nextgensquare.online
